@@ -1,0 +1,51 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
+  <diagram name="Page-1" id="_WNCrilrAT3Zi8TmVyl3">
+    <mxGraphModel dx="1104" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="13aVEg5IRBcUzBrFrzOw-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="140" width="640" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="13aVEg5IRBcUzBrFrzOw-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="108.5" y="220" width="161.5" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="13aVEg5IRBcUzBrFrzOw-3" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.file" vertex="1" parent="1">
+          <mxGeometry x="165.75" y="300" width="47" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="13aVEg5IRBcUzBrFrzOw-4" value="Data Source" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="152.75" y="250" width="73" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13aVEg5IRBcUzBrFrzOw-5" value="CSV file" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="159.25" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13aVEg5IRBcUzBrFrzOw-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.031;entryY=0.481;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="13aVEg5IRBcUzBrFrzOw-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="340" as="sourcePoint" />
+            <mxPoint x="613.2432200000001" y="320.885" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13aVEg5IRBcUzBrFrzOw-8" value="Postgres Database" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="380" width="112.31" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13aVEg5IRBcUzBrFrzOw-9" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="260" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="13aVEg5IRBcUzBrFrzOw-10" value="Scheduled&#xa;Tasks" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.scheduled_tasks;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontSize=12;" vertex="1" parent="13aVEg5IRBcUzBrFrzOw-9">
+          <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
+            <mxPoint x="5" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13aVEg5IRBcUzBrFrzOw-12" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Data Architecture&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="286.25" y="160" width="297.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13aVEg5IRBcUzBrFrzOw-13" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="632.31" y="266" width="78" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="13aVEg5IRBcUzBrFrzOw-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-images-1.medium.com/max/851/1*nPcdyVwgcuEZiEZiRqApug.jpeg;" vertex="1" parent="1">
+          <mxGeometry x="367.91" y="334.36" width="134.17" height="75.64" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
