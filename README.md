@@ -5,26 +5,10 @@ Rexhall Bank ETL Pipeline
 Rexhall Bank is enhancing its data infrastructure through a scalable ETL (Extract, Transform, Load) pipeline built using PySpark. This project automates data ingestion, transformation, and storage to improve operational efficiency, risk assessment, and data-driven decision-making. By using Apache Spark, the pipeline can process large volumes of financial data in a distributed environment, ensuring high performance, fault tolerance, and scalability.
 
 
-🎯 Key Objectives
-
-✔️ Automate Data Extraction.
-
-✔️ Enable Distributed Processing using PySpark for handling large datasets efficiently.
-
-✔️ Improve Data Quality & Consistency through transformations, deduplication, and validation.
-
-✔️ Enhance Real-Time Data Analytics
+🎯 Key Objectives: ✔️ Automate Data Extraction. ✔️ Enable Distributed Processing using PySpark for handling large datasets efficiently. ✔️ Improve Data Quality & Consistency through transformations, deduplication, and validation. ✔️ Enhance Real-Time Data Analytics
 
 
-🛠️ Tech Stack & Tools
-
-✔️ Big Data Processing: PySpark (Apache Spark)
-
-✔️ Programming Languages: Python, SQL
-
-✔️ Database Management: PostgreSQL
-
-✔️ Workflow Orchestration: Apache Airflow
+🛠️ Tech Stack & Tools: ✔️ Big Data Processing: PySpark (Apache Spark). ✔️ Programming Languages: Python, SQL. ✔️ Database Management: PostgreSQL. ✔️ Workflow Orchestration: Apache Airflow
   
 
 🚀 ETL Pipeline Workflow
@@ -46,13 +30,7 @@ Rexhall Bank is enhancing its data infrastructure through a scalable ETL (Extrac
 3️⃣ Data Loading: Stores transformed data in PostgreSQL, ensuring optimized indexing for fast querying.
 
 
-📊 Business Impact on Rexhall Bank
-
-✔️ High-Performance Data Processing – Handles millions of records efficiently with PySpark.
-
-✔️ Optimized Data Governance – Ensures compliance with financial regulations.
-
-✔️ Faster Insights & Reporting – Reduces query execution time from hours to minutes.
+📊 Business Impact on Rexhall Bank:  ✔️ High-Performance Data Processing – Handles millions of records efficiently with PySpark. ✔️ Optimized Data Governance – Ensures compliance with financial regulations. ✔️ Faster Insights & Reporting – Reduces query execution time from hours to minutes.
 
 
 📌 Future Enhancements
