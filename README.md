@@ -36,24 +36,12 @@ Stores transformed data in PostgreSQL, ensuring optimized indexing for fast quer
 ✔️ Optimized Data Governance – Ensures compliance with financial regulations.
 ✔️ Faster Insights & Reporting – Reduces query execution time from hours to minutes.
 
-📂 Project Structure
-
-data_orchestration         # Workflow automation scripts 
-
-images                     # Architecture & database models
-
-etl_pipeline.ipynb         # Jupyter Notebook implementation
-
-etl_pipeline.py            # PySpark job script
-
-postgresql-42.7.5.jar      # PostgreSQL JDBC driver
-
-Rexhall_bank.db            # SQLite backup 
-
 📌 Future Enhancements
 
 🔹 Integrate real-time streaming with Spark Structured Streaming and Kafka.
+
 🔹 Optimize performance with Spark SQL & partitioning techniques.
+
 🔹 Implement machine learning models for fraud detection.
 
 🤝 Contributing: Contributions are welcome! If you have ideas to improve the project, feel free to submit an issue or pull request.
