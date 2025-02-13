@@ -37,11 +37,17 @@ Stores transformed data in PostgreSQL, ensuring optimized indexing for fast quer
 ✔️ Faster Insights & Reporting – Reduces query execution time from hours to minutes.
 
 📂 Project Structure
+
 data_orchestration         # Workflow automation scripts 
+
 images                     # Architecture & database models
+
 etl_pipeline.ipynb         # Jupyter Notebook implementation
+
 etl_pipeline.py            # PySpark job script
+
 postgresql-42.7.5.jar      # PostgreSQL JDBC driver
+
 Rexhall_bank.db            # SQLite backup 
 
 📌 Future Enhancements
